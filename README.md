@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### My Tech Stack
+### 💻 My Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-800080?style=flat-square&logo=java&logoColor=800080)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
@@ -33,6 +33,8 @@
 ### 📊 Profile stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=va3mezk&show_icons=false">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va3mezk&show_icons=true)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
