@@ -32,7 +32,8 @@
 
 ### 📊 Profile stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=va3mezk&show_icons=false">
+
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=va3mezk&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/va3mezk)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va3mezk&show_icons=true)
 
