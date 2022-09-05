@@ -30,12 +30,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va3mezk" alt="va3mezk" /> </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 📊 Profile stats
 
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=va3mezk&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/va3mezk)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va3mezk&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va3mezk&show_icons=true&theme=merko&hide=["contribs","issues"])
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
