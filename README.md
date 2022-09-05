@@ -11,7 +11,7 @@
 
 ### My Tech Stack
 
-![Kotlin](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-800080?style=flat-square&logo=java&logoColor=800080)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
 #### Database
