@@ -9,8 +9,20 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🤔 About
+### My Tech Stack
 
+![Kotlin](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+
+#### Database
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
