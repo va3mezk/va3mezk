@@ -11,15 +11,16 @@
 
 ### 🤔 About
 
-class MainActivity : AppCompatActivity() {
-    private lateinit var binding: ActivityMainBinding
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
-    }
+```
+object Constants {
+    //personal
+    const val NAME="Victor Escalante"
+    const val EMAIL="va3mezk@gmail.com"
+    
+    
+    
 }
-
+```
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
