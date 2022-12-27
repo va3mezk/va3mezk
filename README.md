@@ -23,6 +23,8 @@
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-f06292?style=flat-square&logo=figma&logoColor=ffffff)
+![Adobe XD](https://img.shields.io/badge/-adobe_XD-ba68b8?style=flat-square&logo=adobexd&logoColor=ffffff)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
